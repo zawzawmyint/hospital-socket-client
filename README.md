@@ -143,6 +143,8 @@ Real-Time Synchronization Flow
 
 The live application can be accessed here:
 
+https://hospital-socket-client.vercel.app
+
 ## Social backend repository
 
 Open [https://github.com/zawzawmyint/hospital-socket-server](https://github.com/zawzawmyint/hospital-socket-server)
